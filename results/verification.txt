@@ -1,0 +1,2 @@
+2026-10-28: Four unit tests passed.
+Independent standard-library calculations matched every group count and mean and ANOVA F statistic.

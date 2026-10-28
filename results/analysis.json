@@ -1,0 +1,15 @@
+{
+  "input_rows": 100,
+  "complete_rows": 100,
+  "excluded_rows": 0,
+  "transport_modes": 5,
+  "overall_mean": 26.745167741779998,
+  "anova": {
+    "F": 5.205915894928996,
+    "p_value": 0.0007781154199657758
+  },
+  "median_centered_levene": {
+    "statistic": 0.5499235371808262,
+    "p_value": 0.6995159763723681
+  }
+}
